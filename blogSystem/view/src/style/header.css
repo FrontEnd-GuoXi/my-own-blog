@@ -1,0 +1,14 @@
+.person {
+  position: relative;
+  cursor: pointer;
+}
+
+.hover-list {
+  position: absolute;
+  right: 0;
+  padding: 0 5px;
+}
+
+.hover-list > ul {
+  min-width: 5em;
+}
